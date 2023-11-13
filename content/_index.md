@@ -1,5 +1,5 @@
 ---
-title: My Site
+title: Stable Diffusion Guide
 toc: false
 ---
 
