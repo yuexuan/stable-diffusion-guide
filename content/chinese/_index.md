@@ -1,5 +1,5 @@
 ---
-title: Stable Diffusion Guide
+title: Stable Diffusion 教程
 toc: false
 ---
 
