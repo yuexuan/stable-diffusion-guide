@@ -35,7 +35,16 @@ AI艺术的发展史，其实并没有什么好描述的，他没有民族战争
 
 感兴趣的同学可以看看，[2012，改变人类命运的180天](https://36kr.com/p/2421889040802823)
 
-## 革命性的突破
+## 2015，梦想与超现实
+
+Google在上一局成为了大赢家，这一局，自然也不甘落后，他们域2015年开源了deep dream，他们的实现模式很简单，就是将一张图片进行艺术化处理，像下面这样,是不是很超现实？
+<img
+      alt="Deep Dream Art"
+      loading="lazy"
+      decoding="async"
+      src="/images/Deep Dream Art.png"
+    />
+他们的故事，可以看看[揭秘谷歌Deep Dream的前世今生](https://www.jiqizhixin.com/articles/2015-12-26-2).
 
 
 
