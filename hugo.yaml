@@ -17,6 +17,11 @@ markup:
   highlight:
     noClasses: false
 
+sitemap:
+  changeFreq: ""
+  filename: sitemap.xml
+  priority: -1
+
 menu:
   main:
     - name: Docs
