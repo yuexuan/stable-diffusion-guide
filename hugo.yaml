@@ -1,5 +1,14 @@
+baseURL: "https://artcreate.xyz/"
 # Hugo configuration file
 title: Stable Diffusion Guide
+enableRobotsTXT: true
+enableGitInfo: true
+# enableEmoji: false
+hasCJKLanguage: true
+
+services:
+  googleAnalytics:
+    ID: G-4HQZ935QQY
 
 # import hextra as module
 module:
