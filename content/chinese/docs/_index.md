@@ -1,5 +1,6 @@
 ---
 title: Stable Diffusion Guide
+date: 2023-11-20
 next: first-page
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 关于AI艺术创作教程
+date: 2023-11-20
 type: about
 ---
 

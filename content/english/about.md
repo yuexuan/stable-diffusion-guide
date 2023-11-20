@@ -1,5 +1,6 @@
 ---
 title: About AI art create guide
+date: 2023-11-20
 type: about
 ---
 

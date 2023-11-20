@@ -1,5 +1,6 @@
 ---
 title: Stable Diffusion 教程
+date: 2023-11-20
 toc: false
 ---
 

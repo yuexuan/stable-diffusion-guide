@@ -1,5 +1,6 @@
 ---
 title: "Blog"
+date: 2023-11-20
 ---
 
 <div style="text-align: center; margin-top: 1em;">

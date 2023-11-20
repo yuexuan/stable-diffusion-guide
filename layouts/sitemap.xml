@@ -1,5 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {{ range .Data.Pages }}
+  {{ if not (in .Site.Params.sitemap_exclude .Data.Plural) }}
   <url>
     <loc>{{ .Permalink }}</loc>
     <!-- <loc>https://artcreate.xyz/</loc> -->
@@ -7,5 +8,5 @@
     <changefreq>{{ . }}</changefreq>{{ end }}{{ if ge .Sitemap.Priority 0.0 }}
     <priority>{{ .Sitemap.Priority }}</priority>{{ end }}
   </url>
-  {{ end }}
+    {{ end }}{{ end }}
 </urlset>
