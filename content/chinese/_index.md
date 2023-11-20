@@ -1,18 +1,20 @@
 ---
 title: Stable Diffusion 教程
-date: 2023-11-20
+date: 2023-11-20T18:07:13+08:00
 toc: false
+created: 2023-11-15T11:13:12+08:00
 ---
 
-This is the landing page.
+欢迎来到Stable Diffusion的教程，本教程会手把手，一步步的教你，从零学习AI绘画，即使你没有绘画基础，没有计算机基础，没有显卡，也没有关系，只要你按照教程，一步步的去执行，去理解参数的含义，当然我会对每一个参数都做一个细致的讲解。
 
-## Explore
+看完本教程后，我相信你都会对AI绘画，AI修图是怎么一回事儿有个自己的判断。
+
+本教程计划每周更新一章文档知识点，或者博客内容，我们会最基础的Stable Diffusion WebUI，环境搭建，怎么用开始讲解，包括，快速出图，插件使用，LoRA使用和训练，文生图，图生图，ControlNet，图片风格转换，图片上色，放大，多图自然合成等等、
+
+## 教程
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="docs" title="文档教程" icon="book-open" >}}
+  {{< card link="blog" title="博客" icon="user" >}}
 {{< /cards >}}
 
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).

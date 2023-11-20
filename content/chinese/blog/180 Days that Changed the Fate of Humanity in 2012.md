@@ -1,16 +1,27 @@
 ---
 title: 2012，改变人类命运的180天
-date: 2023-11-15
+date: 2023-11-20T15:11:16+08:00
 tags:
-  - AI Art Create
-  - Stable Diffusion Guide
-  - Artificial Intelligence
-  - Deep Learning
-  - Technology History
-  - Computer Vision
-  - ImageNet Challenge
+  - AI
+  - Art
+  - Create
+  - Stable
+  - Diffusion
+  - Guide
+  - Artificial
+  - Intelligence
+  - Deep
+  - Learning
+  - Technology
+  - History
+  - Computer
+  - Vision
+  - ImageNet
+  - Challenge
 excludeSearch: false
+created: 2023-11-16T18:04:03+08:00
 ---
+
 
 2012年12月初的一天，一场秘密竞拍正在美国滑雪胜地太浩湖（Lake Tahoe）的一家赌场酒店里进行。
 

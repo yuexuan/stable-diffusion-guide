@@ -1,6 +1,6 @@
 ---
 title: 180 Days that Changed the Fate of Humanity in 2012
-date: 2023-11-15
+date: 2023-11-20T14:38:06+08:00
 tags:
   - AI Art Create
   - Stable Diffusion Guide
@@ -10,6 +10,7 @@ tags:
   - Computer Vision
   - ImageNet Challenge
 excludeSearch: false
+created: 2023-11-16T18:00:26+08:00
 ---
 One day in early December 2012, a secret auction was taking place in a casino hotel at Lake Tahoe, a skiing haven in the United States.
 
@@ -53,6 +54,7 @@ Microsoft, seemingly a step behind, eventually secured the biggest prize—OpenA
 From the Google Cat project in June to the AlexNet paper in October, and the Lake Tahoe auction in December, nearly six months laid the groundwork for the AI wave—deep learning's prosperity, GPU and NVIDIA's rise, AlphaGo's dominance, the birth of Transformer, and the emergence of ChatGPT... A grand symphony of the silicon age played its first note.
 
 The 180 days from June to December 2012 forever changed the fate of carbon-based humanity—only a few realized it at the time.
+
 
 ## **Liquid Cats**
 

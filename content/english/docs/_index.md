@@ -1,7 +1,8 @@
 ---
 title: Stable Diffusion Guide | Tutorial
-date: 2023-11-20
+date: 2023-11-20T14:48:13+08:00
 next: first-page
+created: 2023-11-15T10:01:30+08:00
 ---
 
 Welcome to the Stable Diffusion tutorial!

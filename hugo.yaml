@@ -64,7 +64,7 @@ menu:
 
 params:
   description: Dive into the world of AI art with our beginner-friendly tutorial! Learn stable diffusion step by step, even if you're new to the game. Create mesmerizing AI-generated art for free or on a shoestring budget. This accessible guide makes AI artistry a breeze, ensuring you can craft stunning digital pieces without breaking the bank. Start your journey now and unlock the secrets to affordable and impressive AI drawing!
-  sitemap_exclude: ["categories"]
+  sitemap_exclude: ["categories", "tags"]
   navbar:
     displayTitle: true
     displayLogo: false
