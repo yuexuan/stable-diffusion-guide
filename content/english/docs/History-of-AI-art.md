@@ -1,6 +1,6 @@
 ---
-title: History of AI art
-date: 2023-11-20T17:53:08+08:00
+title: History of AI art | Guide
+date: 2023-11-23T17:42:46+08:00
 type: docs
 weight: 1
 prev: /

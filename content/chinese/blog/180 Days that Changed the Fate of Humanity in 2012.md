@@ -1,23 +1,14 @@
 ---
 title: 2012，改变人类命运的180天
-date: 2023-11-20T15:11:16+08:00
+date: 2023-11-23T17:41:26+08:00
 tags:
-  - AI
-  - Art
-  - Create
-  - Stable
-  - Diffusion
-  - Guide
-  - Artificial
-  - Intelligence
-  - Deep
-  - Learning
-  - Technology
-  - History
-  - Computer
-  - Vision
-  - ImageNet
-  - Challenge
+  - AI Art Create
+  - Stable Diffusion Guide
+  - Artificial Intelligence
+  - Deep Learning
+  - Technology History
+  - Computer Vision
+  - ImageNet Challenge
 excludeSearch: false
 created: 2023-11-16T18:04:03+08:00
 ---

@@ -1,6 +1,5 @@
 ---
 title: AI艺术发展史
-date: 2023-11-20
 type: docs
 weight: 1
 prev: /
