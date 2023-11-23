@@ -26,7 +26,8 @@ To be honest, many people like to recommend the minimum configurations, but I pe
 - Storage: 256 GB or larger SATA or NVMe solid-state drive. You need at least 10 GB of available space. Typically, a 1 TB drive offers the best price per GB of storage. (Since the sizes of general models are quite large, more storage space is convenient for storing more models. Using an SSD is preferable to a traditional disk, providing a significant improvement in read and write speeds.)
 - GPU: GeForce RTX GPU with at least 16 GB GDDR6 memory. Many people overlook bandwidth issues, and there is no specific standard for bandwidth, so choose the largest available.
 
-![Comparison with RTX 4090](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=NDJlZDQyOTI1YjJjNjdjMjBiMzQxMWJmOTA1N2VhYjNfR1l5N0pUenFBYzcyRTJBVlpmdmlya2RxbktKV05xTWxfVG9rZW46VWo5MGJBSGdQb3JDeGp4VkoyM2NKcmxvbjllXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
+![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/817f035424bd4b9eafe7d6087fa32428~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=MmriN0STqJve1ci6AzCX40YnUB8%3D)
+
 
 Here's the relative rendering speed compared to the RTX 4090:
 
@@ -63,40 +64,41 @@ Assuming you've read the previous sections and have prepared to learn how to use
 Check your graphics card, memory, hard drive, and CPU. The most crucial element is your graphics card—NVIDIA (Nvidia graphics card) starting from the 10 series, with a minimum of 4GB graphics memory (6GB is better). Memory should be at least 8GB (16GB is better), and your hard drive should ideally have 500GB or more, with SSD being the best choice. The CPU doesn't have strict requirements, as long as it's not outdated.
 
 If you don't know how to check your graphics card, you can open the task manager by right-clicking on the taskbar or using the shortcut `Ctrl + Alt + Delete` and holding them down in sequence. If you have 4GB or more, you're good to go.
-![](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=YWI3N2UwYThiY2ZkOGMwMjk5YzYxMDRkMDkwNzgyZGFfZjBjRXdVVzJqQWZOQ3hsV0llSnZhVWdic3U2SVhzMG1fVG9rZW46TUc3RWI2WXpQb1Y3MmR4emdjQ2NGbzhLbk5iXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
-![](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=OWMzY2U2OTViZTY2YzY2ZWE3NDJjY2YxMTczMGY4OGZfQXdRQTlvNUlGc21yNHZ5SmZEd3NHdjZxWXZ3SHNDVTRfVG9rZW46WG4yMGJzb3lHb2w2Tlp4U0VyZWNacDM1blZmXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
+![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/9764564ca995427b8449ab6703d04f2b~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=2FtFS0DGqAhcnfrY6%2FiZQLgNoEE%3D)
+![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/ef9aea54edf24f84a27a5a48dfeb508c~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=woDeU%2FpkT%2Fdwfeho6URLC%2B8oEpg%3D)
 
 2. Python Installation
 
 Go to the Python official website and download the latest version: [Python Downloads](https://www.python.org/downloads/)
-![](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDAzZDJmMDdkYjdlNWFmZDgzZmI2MTZlODI2MGMwODFfQ0hBMnBhUnhrTmxWQlliN1dNSG80TVpMVW52cnBWbXBfVG9rZW46S2sxdWJVaDFkb1BmV1R4dm5CZWM0UENNbktmXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
+![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/84904f4d0c814ae4b6a6f337583a5cf1~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=j1H1kH0g%2FjPCZuT%2FzwTzzll%2FX8U%3D)
 
 Choose the "Install Now" option and make sure to select "Add python.exe to Path" to avoid manual configuration.
-![](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=ZTA1MmNlNmRjMTQ1YTI2YTRmNTYxMmQyYzE3YjQ3MmRfSDFOdmZLUUUzVkQ1UGdKNG1hUDc4QWlHTU80VWViNk1fVG9rZW46QUk2SGJvQTFyb1RuY0p4emcxamM1SVcxbmJnXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
+![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/a3c06ed65f9a4cbeac71b1fc88043605~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=jbGf0y8wlS%2BVi8KiRbhOhe6l32M%3D)
 
 Once downloaded, click through the installation process.
-![](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=YzRlNTI1NWUxZDZkZTQzZmIyOWZhMjViNzQ0M2VmMjdfdGxmZXRRcnNPWmtVaFA4YUFhN0NJM2R6QkpNQ2d6QTdfVG9rZW46T0FHaWJMV09hb3J3OWp4R0RzZmNvYzVZbk5kXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
+![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/c3cc817effb44c86977dbf4391b7fc66~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=bquTbyUYeo8wXldp9%2Bz%2BSqqwMo0%3D)
+![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/b731467ec66b4f029771c516393c3810~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=bbi3%2BO4TdiGjpMdjeaNpoABoy1Y%3D)
 Next, open the command prompt by pressing `Win + R`, type `python --version`, and press Enter to verify the installation.
-![](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=MjdlMTNlMzgwY2RmNzU2M2Q0YWY0ZWYzNDI2OTAyYWVfSkNYVUJJR0NTQkhxZmtPbk9sbEZmRmNqQ1hmVExLZlZfVG9rZW46VWxHdWJNbW5Mb1RhWk94OXdudmNBTjE3bkNkXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
+![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/937d0526ad724f079598bb45e6687311~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=Klc1CFncvycJw4Y3dPA6dvMRBQ0%3D)
 **Optional: Environment Variable Configuration**
 
 1. If you forgot to select "Add python.exe to Path," you may need to manually add the environment variable.
 
 2. Right-click on "This PC" or "My Computer," select Properties, and go to Advanced system settings.
-        ![](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=NjE1Nzg2ZWI1MmQ5NTk2ZTBhNTEzNmU3OTQ5ZDRjN2ZfaFpKeDZCSkpKYzk2amRGaWd1ajhOc1RFOVhOZ01Jc1FfVG9rZW46UktJSWJxczZUb29NTGd4N2l3ZmNoeFhYbjljXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
+        ![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/260170bd99274129946acec11c5fe556~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=ugJlb6CcLFy6HwqV%2FfHSOgPWT1w%3D)
 3. Click on Environment Variables.
-    ![](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=OWM0NTZiZjI1MWVkOWI1OGM1MWY4ZTVmYTFkZDk5MzVfMUNuQnNPdzBIbXI5dno3V3p5bUF2cUNqOVVOckJCcVdfVG9rZW46R2toYWJHNkMzb2xIRHF4VVVDQmNrZ0owbk1kXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
+   ![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/2d5576e0cc044a0aa35b01fb2c6b1a79~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=hYPkZXiai6%2Bd3jTmXkXxZidaWFE%3D)
 4. In the System variables section, find the Path variable, click Edit, and add the path to the directory where the Python interpreter is located. Remember to add a semicolon (;) before pasting.
-    ![](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=ZjU5MGNlMDZlNmIwZWU2ZWVkYzQyOWExMWY5ZGEzOGFfOHVYNExtR1VzaHBFSjY1QW5XNUxSOGJRbFV6UExKdUxfVG9rZW46UE5RMGIycXlsb1JNQ2p4Z1hmOWMxVUd5bkJmXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
-
-![Environment Variable](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=ZTA1MmNlNmRjMTQ1YTI2YTRmNTYxMmQyYzE3YjQ3MmRfSDFOdmZLUUUzVkQ1UGdKNG1hUDc4QWlHTU80VWViNk1fVG9rZW46S2sxdWJVaDFkb1BmV1R4dm5CZWM0UENNbktmXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
+    ![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/67041cb493874855a361506e65df6de0~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=oPYBNm4mI5vgV0UwyCT3FkzrcLs%3D)
 
 3. Git Installation
 
 Download Link: [https://git-scm.com/download/win](https://git-scm.com/download/win)
 
 Git is used to fetch code from remote Github repositories, allowing real-time updates for Stable Diffusion. This ensures timely access to new features, as the web UI is frequently updated, sometimes with more than ten releases in a month.
+![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/2bfc16a173ad4ac9a5a9f9cfb1aaf0f6~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=%2Fs9mIlEGD5%2Bvr9zR9nPU9um3v10%3D)
 
+![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/fac60217a0b34010a919ff22cdd003e9~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=XSGIpV6H8R5vuyjaIV9EUrjYeu0%3D)
 After downloading, install Git and check the runtime environment using the following CMD command:
 
 [Win+R] to open [Run], type "cmd," press Enter, and in the command line, enter:
@@ -105,9 +107,9 @@ PlainCopy code
 
 `git --version`
 
-![Git Installation Check](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=YjJkY2RjZjU5MTRlYjk1ZTM4ODhlMjE4NTc4NTVjNzRfNnpKSXlxTWQ3cmhRWGkxVkdqTUxPS2lMNWhEZ0o2SXpfVG9rZW46TzVEMWJVTWdrb3JPQnB4UUFpUWNuRlJDbnhiXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
+![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/b9e434184a2b4d8b960ca91725bf8071~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=RUi5%2BEVk4uM%2Bk0%2Ba3hlbXW9mM8Q%3D)
 
-![Git Installation Check](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=NzFmMDEzZDFhYjNmODMyNzg3MWE5MTJkMWIyZWJlNzBfbG5mcENxTURmU3hoQTdTQm9ub0g5clNxd3B3M0J5anJfVG9rZW46VHBkU2JVMmdBb0w5dUJ4QnF1MGNHdW44bmtoXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
+
 
 4. CUDA Installation
 
@@ -115,13 +117,13 @@ Download Link: [https://developer.nvidia.com/cuda-toolkit-archive](https://chat.
 
 CUDA is a dependency program for NVIDIA graphics cards to run algorithms. First, run the command `nvidia-smi` in the command prompt to check your GPU's supported CUDA version. Updating the driver may enable support for a higher CUDA version.
 
-![](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=NTAyY2JlMDUwMTU4Yzg1NWZlYzNjZGM2YjFmMDY5ZGZfdklndHFJbzVKV3VQV3dwMDdVa2llWmtZV0NJelNGY0VfVG9rZW46SEhaMWJoeHVub0FJbDJ4WVB6TWM2OUtBbnllXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
+![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/0d4eb345ff634832be94d54206ee20d5~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=aBZ5UvEvvBFPd5Yjtf7rajp8Jsw%3D)
 
 Next, visit the NVIDIA official website [https://developer.nvidia.com/cuda-toolkit-archive](https://developer.nvidia.com/cuda-toolkit-archive) and download the corresponding version. Ensure you download the highest version number compatible with your GPU; for example, if you have version 11.5, download 11.5.2 (where .2 indicates the 2nd update for version 11.5).
 
 CUDA Driver Version vs. CUDA Toolkit Compatibility: [https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html#major-components](https://sspai.com/link?target=https%3A%2F%2Fdocs.nvidia.com%2Fcuda%2Fcuda-toolkit-release-notes%2Findex.html%23major-components)
 
-![CUDA Download](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=ODgxZDg1NzgxMTczZmJlNzRmZDFjODQ4YTVjNDk5ZGJfMEVpaVdFc1d3N1VNMVJYUks1TUpMVFNWMjJORzJMeXFfVG9rZW46Q1ljZGJaOTMwb3dhZll4ZFZYemN5dnFDbjhmXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
+![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/8befe93a72f14ea19431fe7ff0217704~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=aEKOHKMWYt0cGC3DCUjuOu2LlXw%3D)
 
 When downloading, choose the 'exe_local' (offline installer) as online installation may be slower.
 
@@ -137,9 +139,9 @@ Open CMD and download Stable Diffusion web UI using Git.
 
 Create a new folder on your disk, e.g., named 'AI.' Right-click inside the folder and choose 'Git Bash Here' to open the Git terminal.
 
-![Git Bash Here](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=MWY0MmJlNDM4NGNjZGM0ZTJjY2I1MTc2OTUwM2RiNzVfZ3IzTzZNTGJSMThuVlBFMVNkVGM4Mmd0WlVEYUZaeXlfVG9rZW46SDEzSWIzNWpLbzE3QU94VnlzUGNZeDZrbmFiXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
+![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/d7562c6c926743c98e65fc1dc6e055c4~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=FPnuwCuYwugoRF3eldqszsIz92s%3D)
 
-![Git Clone](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=YzYzMTViMzk5YmQ2MzM0M2JkZGFiMzI4N2NiODA0Njdfa2xYdFFCTWN2UWh6Tkt5NmhxSzF5UzQ3RUxMa21zbWtfVG9rZW46QWVLdGJETHVxb2w0TVN4ODNYbmM2bnN0bnNjXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
+![](https://p26-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/273da55abf18478eac105158235abcbf~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=DFyHZeztJ5fqYyFsQgWXQy4qLcA%3D)
 
 Clone the code using the Git command:
 
@@ -147,23 +149,23 @@ PlainCopy code
 
 `git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git` 
 
-![Git Clone](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=ODIyODU4NWViZWFjMzA1YzhiNDJkYjgzYmI1OTMwM2ZfVmQyUUxGdTZwR3hXZVFoWTVORnFPMzk1NkxzMDRxVWpfVG9rZW46QkJDTWJ3Nkk0b2pQSGZ4Mmh5b2NIbGpsbnE2XzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
+![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/610774cf63a943f290a3173ad4e64482~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=m2nRALYfDCbl1iccsTn%2FDbPXT%2BE%3D)
 
 You will see a folder like this. If you encounter issues with downloading, such as network failures or HTTPS security verification problems, you can also download and unzip the file directly from the GitHub page [https://github.com/AUTOMATIC1111/stable-diffusion-webui.git](https://github.com/AUTOMATIC1111/stable-diffusion-webui.git) (not recommended for future web UI upgrades).
 
-![Web UI Folder](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=NGU2N2YyNTA0MDdmNmZiNDc3NDg5Mjg5ZDZkYThiMTBfSWVCd1BCak5SMnN6ZkhwMEV0bE5VZHZIc01MVEV0YllfVG9rZW46Vjg2MGIwYjJvb2JXRmx4ZDg0NmNxYWdObnZoXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
+![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/2d90b65b76e746b3a65fbb513e8e7095~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=ja6Ql5H0cpnPDc4VI1wyqvwZN%2F4%3D)
 
 6. Run webui-user.bat
 
 Open the stable-diffusion-webui directory, and you will see the 'webui-user.bat' file. Double-click to run it.
 
-![Run webui-user.bat](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=ZjlhMGQxZmVjMmUzNTM1ZTUwNmIyNjQ2MjcxN2JjNDFfTU8xTFpjN3I5MHVtSFFUR0h1MXhaMzJ5SEl0aE91YWFfVG9rZW46UkhwMmJyVHg5b1NuNWp4dWtOeWMzM3R1bmVlXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
+![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/80e0fb8564284d278618be0f0772cdec~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=ZksM%2Ffyo0344riWQNHXoQHxU%2B04%3D)
 
 During the run, the duration depends on your network environment, usually taking 10-30 minutes to complete. Wait until you see the address [http://127.0.0.1:7860](http://127.0.0.1:7860/), indicating that it is running successfully. Do not close this window; closing it will exit the process.
 
 Copy [http://127.0.0.1:7860](http://127.0.0.1:7860/) to your browser (you can save it as a bookmark for convenience), and now you can input commands to generate images.
 
-![Web UI Running](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=NDQyMjYwZjc0YmE1YjcyMjE1ZmQ3OWU3NDg3MjQzNmJfTDRCN3FkRjRrN3c2d0pZcGFhZFpjVDlyT1hmRG1kdjhfVG9rZW46RkN6dWJJMzFEb3FUc0V4em03M2NTTHhzbk5kXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
+![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/79fbc07b66d149379f3fda174c6af350~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=I%2FsPo63dg3mfbUDioj1liqRZ29E%3D)
 
 Feeling overwhelmed?
 
@@ -179,14 +181,13 @@ Download Link:
 [https://pan.baidu.com/s/1TK7UyX5lgNjdwdfcmYCI5Q](https://pan.baidu.com/s/1TK7UyX5lgNjdwdfcmYCI5Q) 
 Extraction Code: c132
 
-![秋葉aaaki Integrated Package](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=NjA4NmE1NDJlNTJhNGI1YzAwNjYxZjUwZTk3NGNlNGFfdDVXdTIzaFJnY2RyMHhvSVVQZFJrQUp3ejZmS2M3MkJfVG9rZW46VXlmY2JEUlJDb3E1M3R4cjltN2M1M0VnbjBnXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
+![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/dec17d88bc5f4a70ae07fc0993eebc4a~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=4bhNXTTL%2FR2lk0VYH0MM2UjpuRY%3D)
     
 **StabilityMatrix**
 
 Launcher from [GitHub - LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix). Download and install.
 
-![StabilityMatrix Launcher](https://w5wc4ktwyr.feishu.cn/space/api/box/stream/download/asynccode/?code=MGRlODQzNTU0MWIxMDE1NDBmOWRhMzY2YzkzMTVhMTdfb29jUFR3TXBpZFVKRFZKYjJyemJ5YjZmdHpvajlRVUFfVG9rZW46QXVGVmJ1eDltb1ZIbzR4SlVucmNzR0V0bmFmXzE3MDA3MzAzODI6MTcwMDczMzk4Ml9WNA)
-
+![](https://p26-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/5509f272d2b64f2883cf58c236401aae~tplv-obj.image?lk3s=3de049d8&traceid=2023112318141748BF73F48B0FFF1EBAE2&x-expires=2147483647&x-signature=%2FP11iI76QvNmH8NpKVfIEjNJMOQ%3D)
 
 These launchers are integrated with Python environments and models. Simply run them with a single click.
 
