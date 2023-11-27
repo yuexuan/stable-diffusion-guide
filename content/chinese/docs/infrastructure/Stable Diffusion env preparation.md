@@ -1,9 +1,10 @@
 ---
 title: 环境搭建及准备
 type: docs
+weight: 1
 prev: docs/infrastructure/
 created: 2023-11-15T11:13:12+08:00
-date: 2023-11-23T17:12:52+08:00
+date: 2023-11-27T15:56:50+08:00
 ---
 ## 容易的开局
 ![](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/5081a7eafd134a73962c344f81afee84~tplv-obj.image?lk3s=3de049d8&traceid=2023112317011619203B17AAEE0119D9DB&x-expires=2147483647&x-signature=w813o0nBiA%2ByEL%2FOCon78MzFI4c%3D)
@@ -61,7 +62,7 @@ date: 2023-11-23T17:12:52+08:00
 
 云环境，一般是显卡租赁平台提供一张显卡，以及docker容器类的运行环境，模型数据，图片数据，可以存放于网络云盘上。也是我后续会主要介绍的。
 
-### 本地安装
+## 本地安装
 
 1. 环境检查
 
@@ -195,7 +196,7 @@ git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
 
 麻烦就对了，这是编程人员的运行方式，其实上面的步骤，你都可以不用去理解的，知道他很复杂就行了，于是就有朋友提供了整合包。你可以一键安装他们。
 
-### 整合包安装
+## 整合包安装
 
 秋葉aaaki
 
@@ -213,7 +214,7 @@ git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
 
 不管是自己手动安装，还是整合包安装，面对本机多变的环境，难免会遇到很多错误，或收集网络资料来解决，或根本不其可云，无法解决。那么我诚心的推荐你使用云环境，现在的云环境，基本上大多都集成了一键stable diffusion webui。只管付费运行即可。
 
-### 云环境安装
+## 云环境安装
 
 【后续更新其他平台，目前先AutoDL】
 

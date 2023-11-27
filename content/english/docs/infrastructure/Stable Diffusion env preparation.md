@@ -1,9 +1,10 @@
 ---
 title: Env Preparation | Guide
 type: docs
+weight: 1
 prev: docs/infrastructure/
 created: 2023-11-15T11:13:12+08:00
-date: 2023-11-23T17:51:11+08:00
+date: 2023-11-27T15:56:21+08:00
 ---
 ## Easy Start
 
@@ -171,7 +172,7 @@ Feeling overwhelmed?
 
 That's normal; this is the developer's way of running things. You don't necessarily need to understand all the steps, just know that it's a complex process. To simplify, some enthusiasts have provided integrated packages that you can install with a single click.
 
-### Integrated Package Installation
+## Integrated Package Installation
 
 **秋葉aaaki**
 
