@@ -1,9 +1,7 @@
 ---
 title: 基础概念
-date: 2023-11-23T17:53:56+08:00
+date: 2023-11-28T10:42:15+08:00
 type: docs
-prev: docs/first-page
-next: docs/infrastructure/leaf
 sidebar:
   open: true
 created: 2023-11-15T11:13:12+08:00

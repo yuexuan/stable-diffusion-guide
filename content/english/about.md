@@ -1,7 +1,8 @@
 ---
 title: About AI art create guide
-date: 2023-11-20
 type: about
+created: 2023-11-15T10:01:30+08:00
+date: 2023-11-28T10:40:02+08:00
 ---
 
 Artistic creation involving AI has experienced a staggering surge over the past year. A plethora of AI creation platforms have emerged, varying widely in quality, from finely crafted to blatant plagiarism, driven by the pursuit of quick profits. Users navigating these platforms face a steep learning curve, grappling with the challenge of distinguishing between them and navigating subscription models that often result in unnecessary expenses. Yet, the produced artworks frequently fall short of expectations.

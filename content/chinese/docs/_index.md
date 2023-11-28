@@ -1,7 +1,7 @@
 ---
 title: Stable Diffusion Guide
-date: 2023-11-20
-next: first-page
+created: 2023-11-15T11:13:12+08:00
+date: 2023-11-28T10:41:57+08:00
 ---
 
 欢迎来到Stable Diffusion的教程！

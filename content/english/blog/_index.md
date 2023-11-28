@@ -1,6 +1,7 @@
 ---
-title: "Blog"
-date: 2023-11-20
+title: "Stable Diffusion Guide Blog"
+created: 2023-11-15T15:38:29+08:00
+date: 2023-11-28T10:41:25+08:00
 ---
 
 <div style="text-align: center; margin-top: 1em;">

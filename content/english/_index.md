@@ -1,7 +1,8 @@
 ---
 title: Stable Diffusion Guide
-date: 2023-11-20
 toc: false
+created: 2023-11-15T10:01:30+08:00
+date: 2023-11-28T10:39:55+08:00
 ---
 
 Welcome to the Stable Diffusion tutorial! In this tutorial, we will guide you step by step through the process of learning AI drawing. Even if you have no background in drawing, no knowledge of computers, and no graphics card, it's not a problem. As long as you follow the tutorial and execute each step, understanding the meanings of the parameters, you're good to go. I will provide detailed explanations for each parameter.

@@ -1,6 +1,6 @@
 ---
-title: "Blog"
-date: 2023-11-20T15:11:02+08:00
+title: "Stable Diffusion 教程博客"
+date: 2023-11-28T10:42:45+08:00
 created: 2023-11-15T15:36:01+08:00
 ---
 <div style="text-align: center; margin-top: 1em;">
